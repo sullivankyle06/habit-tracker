@@ -31,3 +31,10 @@
 - Changing privacy regulations.
 - Users may stick with what’s already working unless you clearly show value.
 - App fatigue—people install many apps but don’t use them consistently.
+
+
+#### **Extra context **
+- We will be using Strava running app, Apple Health, and Habitica as our comparison applications
+- As the team continues to develop, we really need to focus on what demographics we will want to focus this application for
+- As of now, we are focusing fitness-minded individuals who struggle to maintain routine without motivation
+- Gamifying good habits will help to motivate individuals to exercise
