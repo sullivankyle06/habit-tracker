@@ -1,0 +1,6 @@
+{
+    "mode": "development",
+    "reminder_type": "sms",
+    "database_path": "data/habits.db"
+  }
+  
